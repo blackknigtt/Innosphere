@@ -388,7 +388,7 @@ body.nav-active { overflow: hidden; }
 \*-----------------------------------*/
 
 .hero {
-  padding-block-start: calc(var(--section-padding) + 90px);
+  padding-block-start: calc(var(--section-padding) + 187px);
   text-align: center;
   background-color: var(--primary-color);
 }
